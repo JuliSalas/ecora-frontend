@@ -1,0 +1,468 @@
+{
+    "catalogo": [
+        {
+            "id": 1,
+            "nombre": "Conjunto Accesorios 'For Him'",
+            "categoria": [
+                "Hombre",
+                "Accesorios"
+            ],
+            "tallas": [
+                "Unique"
+            ],
+            "descripcion": "Conjunto de accesorios, incluye: Cadena, collar, y cinco anillos seleccionados.",
+            "precio": "CRC 14,000",
+            "imagen": "/productos/hombre_acces_1.jpg"
+        },
+        {
+            "id": 2,
+            "nombre": "Set collares tropicales",
+            "categoria": [
+                "Hombre",
+                "Accesorios"
+            ],
+            "tallas": [
+                "Unique"
+            ],
+            "descripcion": "Set de collares seleccionados con estilo tropical y artesanal.",
+            "precio": "CRC 16,000",
+            "imagen": "/productos/hombre_acces_2.jpg"
+        },
+        {
+            "id": 3,
+            "nombre": "Camisa 'Kanagawa'",
+            "categoria": [
+                "Hombre",
+                "Camisetas"
+            ],
+            "tallas": [
+                "XS",
+                "S",
+                "M",
+                "L",
+                "XL",
+                "XXL"
+            ],
+            "descripcion": "Camisa abotonada y con relieve inspirada en la obra 'The Great Wave off Kanagawa' por Hokusai.",
+            "precio": "CRC 20,000",
+            "imagen": "/productos/hombre_camisa_1.jpg"
+        },
+        {
+            "id": 4,
+            "nombre": "Camisa 'Hana'",
+            "categoria": [
+                "Hombre",
+                "Camisetas"
+            ],
+            "tallas": [
+                "XS",
+                "S",
+                "M",
+                "L",
+                "XL",
+                "XXL"
+            ],
+            "descripcion": "Camisa de manga larga abotonada con bordados florales.",
+            "precio": "CRC 25,000",
+            "imagen": "/productos/hombre_camisa_2.jpg"
+        },
+        {
+            "id": 5,
+            "nombre": "Gorra 'Major Head Trauma'",
+            "categoria": [
+                "Hombre",
+                "Gorras"
+            ],
+            "tallas": [
+                "Unique"
+            ],
+            "descripcion": "Gorra con estilo washed desgastado y bordados.",
+            "precio": "CRC 12,000",
+            "imagen": "/productos/hombre_gorra_1.jpg"
+        },
+        {
+            "id": 6,
+            "nombre": "Gorra estilo militar washed",
+            "categoria": [
+                "Hombre",
+                "Gorras"
+            ],
+            "tallas": [
+                "Unique"
+            ],
+            "descripcion": "Gorra estilo militar washed con botones y bordado.",
+            "precio": "CRC 16,000",
+            "imagen": "/productos/hombre_gorra_2.jpg"
+        },
+        {
+            "id": 7,
+            "nombre": "Jacket 'Forest'",
+            "categoria": [
+                "Hombre",
+                "Jacket"
+            ],
+            "tallas": [
+                "XS",
+                "S",
+                "M",
+                "L",
+                "XL",
+                "XXL"
+            ],
+            "descripcion": "Jacket inspirada en el bosque y su fauna/flora",
+            "precio": "CRC 40,000",
+            "imagen": "/productos/hombre_jacket_1.jpg"
+        },
+        {
+            "id": 8,
+            "nombre": "Jacket 'Navy'",
+            "categoria": [
+                "Hombre",
+                "Jacket"
+            ],
+            "tallas": [
+                "XS",
+                "S",
+                "M",
+                "L",
+                "XL",
+                "XXL"
+            ],
+            "descripcion": "Jacket estilo naval de mezclilla reciclada",
+            "precio": "CRC 45,000",
+            "imagen": "/productos/hombre_jacket_2.jpg"
+        },
+        {
+            "id": 9,
+            "nombre": "Pantalones 'Flight'",
+            "categoria": [
+                "Hombre",
+                "Pantalones"
+            ],
+            "tallas": [
+                "XS",
+                "S",
+                "M",
+                "L",
+                "XL",
+                "XXL"
+            ],
+            "descripcion": "Pantalones fabricados con mezclilla reciclada con bordados inspirados en el cielo.",
+            "precio": "CRC 30,000",
+            "imagen": "/productos/hombre_pant_1.jpg"
+        },
+        {
+            "id": 10,
+            "nombre": "Pantalones 'Blossoms'",
+            "categoria": [
+                "Hombre",
+                "Pantalones"
+            ],
+            "tallas": [
+                "XS",
+                "S",
+                "M",
+                "L",
+                "XL",
+                "XXL"
+            ],
+            "descripcion": "Pantalones fabricados con mezclilla reciclada con bordados inspirados en árboles de cerezo.",
+            "precio": "CRC 35,000",
+            "imagen": "/productos/hombre_pant_2.jpg"
+        },
+        {
+            "id": 11,
+            "nombre": "Sneakers Basics",
+            "categoria": [
+                "Hombre",
+                "Zapatos"
+            ],
+            "tallas": [
+                "7",
+                "8",
+                "9",
+                "10",
+                "11"
+            ],
+            "descripcion": "Zapatos tipo sneaker fabricados a base de materiales reciclados.",
+            "precio": "CRC 25,000",
+            "imagen": "/productos/hombre_zap_1.jpg"
+        },
+        {
+            "id": 12,
+            "nombre": "Botas Basics",
+            "categoria": [
+                "Hombre",
+                "Zapatos"
+            ],
+            "tallas": [
+                "7",
+                "8",
+                "9",
+                "10",
+                "11"
+            ],
+            "descripcion": "Botas fabricadas a base de materiales reciclados.",
+            "precio": "CRC 30,000",
+            "imagen": "/productos/hombre_zap_2.jpg"
+        },
+        {
+            "id": 13,
+            "nombre": "Lentes redondos.",
+            "categoria": [
+                "Hombre",
+                "Lentes"
+            ],
+            "tallas": [
+                "Unique"
+            ],
+            "descripcion": "Lentes de corte redondeado.",
+            "precio": "CRC 20,000",
+            "imagen": "/productos/hombre_lentes_1.jpg"
+        },
+        {
+            "id": 14,
+            "nombre": "Reloj 'Hana'",
+            "categoria": [
+                "Mujer",
+                "Accesorios"
+            ],
+            "tallas": [
+                "Unique"
+            ],
+            "descripcion": "Reloj analógico inspirado en flores.",
+            "precio": "CRC 20,000",
+            "imagen": "/productos/mujer_acces_1.jpg"
+        },
+        {
+            "id": 15,
+            "nombre": "Pendientes solares",
+            "categoria": [
+                "Mujer",
+                "Accesorios"
+            ],
+            "tallas": [
+                "Unique"
+            ],
+            "descripcion": "Pendientes fabricados artesanalmente inspirados en el sol.",
+            "precio": "CRC 10,000",
+            "imagen": "/productos/mujer_acces_2.jpg"
+        },
+        {
+            "id": 16,
+            "nombre": "Camiseta 'Man I Love Frogs'",
+            "categoria": [
+                "Mujer",
+                "Camisetas"
+            ],
+            "tallas": [
+                "XS",
+                "S",
+                "M",
+                "L",
+                "XL",
+                "XXL"
+            ],
+            "descripcion": "Camiseta artesanal inspirada en ranas.",
+            "precio": "CRC 20,000",
+            "imagen": "/productos/mujer_camisa_1.jpg"
+        },
+        {
+            "id": 17,
+            "nombre": "Camisa Animales",
+            "categoria": [
+                "Mujer",
+                "Camisetas"
+            ],
+            "tallas": [
+                "XS",
+                "S",
+                "M",
+                "L",
+                "XL",
+                "XXL"
+            ],
+            "descripcion": "Camiseta artesanal inspirada en animales y su conservación.",
+            "precio": "CRC 20,000",
+            "imagen": "/productos/mujer_camisa_2.jpg"
+        },
+        {
+            "id": 18,
+            "nombre": "Falda corta",
+            "categoria": [
+                "Mujer",
+                "Faldas"
+            ],
+            "tallas": [
+                "XS",
+                "S",
+                "M",
+                "L",
+                "XL",
+                "XXL"
+            ],
+            "descripcion": "Falda corta fabricada artesanalmente",
+            "precio": "CRC 25,000",
+            "imagen": "/productos/mujer_falda_1.jpg"
+        },
+        {
+            "id": 19,
+            "nombre": "Falda Larga",
+            "categoria": [
+                "Mujer",
+                "Faldas"
+            ],
+            "tallas": [
+                "XS",
+                "S",
+                "M",
+                "L",
+                "XL",
+                "XXL"
+            ],
+            "descripcion": "Falda larga fabricada artesanalmente.",
+            "precio": "CRC 28,000",
+            "imagen": "/productos/mujer_falda_2.jpg"
+        },
+        {
+            "id": 20,
+            "nombre": "Gorra 'Good Luck'",
+            "categoria": [
+                "Mujer",
+                "Gorras"
+            ],
+            "tallas": [
+                "Unique"
+            ],
+            "descripcion": "Gorra inspirada en conejos y la buena suerte.",
+            "precio": "CRC 12,000",
+            "imagen": "/productos/mujer_gorra_1.jpg"
+        },
+        {
+            "id": 21,
+            "nombre": "Gorra 'Delivery'",
+            "categoria": [
+                "Mujer",
+                "Gorras"
+            ],
+            "tallas": [
+                "Unique"
+            ],
+            "descripcion": "Gorra inspirada en 'Delivery Boys' con toque de terciopelo artesanal.",
+            "precio": "CRC 16,000",
+            "imagen": "/productos/mujer_gorra_2.jpg"
+        },
+        {
+            "id": 22,
+            "nombre": "Jacket 'Business'",
+            "categoria": [
+                "Mujer",
+                "Jacket"
+            ],
+            "tallas": [
+                "XS",
+                "S",
+                "M",
+                "L",
+                "XL",
+                "XXL"
+            ],
+            "descripcion": "Jacket estilo gabardina afelpada",
+            "precio": "CRC 40,000",
+            "imagen": "/productos/mujer_jacket_1.jpg"
+        },
+        {
+            "id": 23,
+            "nombre": "Suéter 'Baa'",
+            "categoria": [
+                "Mujer",
+                "Jacket"
+            ],
+            "tallas": [
+                "XS",
+                "S",
+                "M",
+                "L",
+                "XL",
+                "XXL"
+            ],
+            "descripcion": "Suéter tejido artesanalmente inspirado en ovejas.",
+            "precio": "CRC 30,000",
+            "imagen": "/productos/mujer_jacket_2.jpg"
+        },
+        {
+            "id": 24,
+            "nombre": "Pantalones baggy cuadros",
+            "categoria": [
+                "Mujer",
+                "Pantalones"
+            ],
+            "tallas": [
+                "XS",
+                "S",
+                "M",
+                "L",
+                "XL",
+                "XXL"
+            ],
+            "descripcion": "Pantalones baggy de cuadros.",
+            "precio": "CRC 30,000",
+            "imagen": "/productos/mujer_pant_1.jpg"
+        },
+        {
+            "id": 25,
+            "nombre": "Pantalones de campana",
+            "categoria": [
+                "Mujer",
+                "Pantalones"
+            ],
+            "tallas": [
+                "XS",
+                "S",
+                "M",
+                "L",
+                "XL",
+                "XXL"
+            ],
+            "descripcion": "Pantalones con corte de campana inspirados en estilo retro.",
+            "precio": "CRC 30,000",
+            "imagen": "/productos/mujer_pant_2.jpg"
+        },
+        {
+            "id": 26,
+            "nombre": "Zapatos Basics Mujer",
+            "categoria": [
+                "Mujer",
+                "Zapatos"
+            ],
+            "tallas": [
+                "7",
+                "8",
+                "9",
+                "10",
+                "11"
+            ],
+            "descripcion": "Zapatos con tacón y cinta fabricados artesanalmente",
+            "precio": "CRC 30,000",
+            "imagen": "/productos/mujer_zap_1.jpg"
+        },
+        {
+            "id": 27,
+            "nombre": "Botas 'Mimi'",
+            "categoria": [
+                "Mujer",
+                "Zapatos"
+            ],
+            "tallas": [
+                "7",
+                "8",
+                "9",
+                "10",
+                "11"
+            ],
+            "descripcion": "Botas de plataforma alta inspiradas en Y2K.",
+            "precio": "CRC 40,000",
+            "imagen": "/productos/mujer_zap_2.jpg"
+        }
+    ]
+}
